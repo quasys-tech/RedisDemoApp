@@ -14,6 +14,8 @@ data:
   REDIS_PREFIX: 'TEST:'
   REDIS_USERNAME: testuser1
   REDIS_USE_PREFIX: 'true'
+  REDIS_WRITE_PERIOD: '100'
+  REDIS_THREAD_COUNT: '10'
 ```
 
 ### Deployment
