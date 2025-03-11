@@ -38,7 +38,7 @@ spec:
     spec:
       containers:
         - name: container
-          image: 'quasys/redisdemo:1.0.3'
+          image: 'quasys/redisdemo:1.0.7'
           ports:
             - containerPort: 8080
               protocol: TCP
