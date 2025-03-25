@@ -85,7 +85,7 @@ curl --location --request GET 'http://localhost:8080/api'
 
 # Read All Data
 
-curl --location --request GET 'http://localhost:8080/api/getAllData'
+curl --location --request GET 'http://localhost:8080/api/read-all'
 
 
 
